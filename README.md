@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/GustavoACaetano"></a>
-  ![GustavoACaetano](https://github-readme-stats.vercel.app/api?username=GustavoACaetano&show_icons=true&theme=dracula&count_private=true)
+  ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoACaetano&show_icons=true&theme=transparent)
 
   
 </div>
