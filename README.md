@@ -1,7 +1,9 @@
 # Olá! Eu sou o Gustavo! 👋🏻
 ✝ 1 Timóteo 6:11 <br>
+🔰 18 anos <br>
 🖥 Técnico Informática para Internet (IFES - Serra) <br>
 📚 Cursando Sistemas de Informação 1/8 (IFES - Serra)
+
 
 
 ## 💻 Tecnologias
