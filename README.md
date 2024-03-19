@@ -1,4 +1,7 @@
 # 👋🏻 Olá! Eu sou o Gustavo!
+Técnico Informática para Internet (IFES - Serra)
+Cursando Sistemas de Informação - 1/8 (IFES - Serra)
+
 
 ## 💻 Tecnologias
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
