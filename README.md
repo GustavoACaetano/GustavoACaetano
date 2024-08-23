@@ -1,7 +1,7 @@
 # Olá! Eu sou o Gustavo! 👋🏻
 ✝ 1 Timóteo 6:11 <br>
 🔰 18 anos <br>
-🏆 Desenvolvedor de Software - [LEDS](https://leds.serra.ifes.edu.br)<br>
+🏆 Desenvolvedor de Software - [LEDS](https://www.instagram.com/ledsifes/)<br>
 🖥 Técnico Informática para Internet (IFES - Serra) <br>
 📚 Cursando Sistemas de Informação 1/8 (IFES - Serra) <br>
 ⚽ Cruzeiro 🔵⚪ <br>
