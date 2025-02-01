@@ -1,10 +1,11 @@
 # Olá! Eu sou o Gustavo! 👋🏻
 ✝ 1 Timóteo 6:11 <br>
 🔰 19 anos <br>
-🏆 Desenvolvedor - [LEDS](https://www.instagram.com/ledsifes/)<br>
+🏆 Desenvolvedor Fullstack - [LEDS](https://www.instagram.com/ledsifes/) <br>
 🖥 Técnico Informática para Internet (IFES - Serra) <br>
 📚 Cursando Sistemas de Informação 2/8 (IFES - Serra) <br>
 ⚽ Cruzeiro 🔵⚪ <br>
+🏎 Fórmula 1 <br>
 
 ## 💻 Tecnologias que já utilizei
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
