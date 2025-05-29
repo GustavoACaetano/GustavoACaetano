@@ -3,7 +3,7 @@
 🔰 19 anos <br>
 🏆 Desenvolvedor Fullstack - [LEDS](https://www.instagram.com/ledsifes/) <br>
 🖥 Técnico Informática para Internet (IFES - Serra) <br>
-📚 Cursando Sistemas de Informação 2/8 (IFES - Serra) <br>
+📚 Cursando Sistemas de Informação 3/8 (IFES - Serra) <br>
 ⚽ Cruzeiro 🔵⚪ <br>
 🏎 Fórmula 1 <br>
 
