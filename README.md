@@ -1,4 +1,4 @@
-# Olá! Eu sou o Gustavo! 👋🏻
+# Olá! Eu sou o Gustavo! 👋
 ✝ 1 Timóteo 6:11 <br>
 🔰 20 anos <br>
 🏆 Desenvolvedor Fullstack - [LEDS](https://www.instagram.com/ledsifes/) <br>
